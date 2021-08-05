@@ -1,4 +1,4 @@
-import { PostgrestQueryBuilder } from '@supabase/postgrest-js'
+import { PostgrestQueryBuilder } from '../postgrest-js'
 import { SupabaseRealtimeClient } from './SupabaseRealtimeClient'
 import { RealtimeClient } from '@supabase/realtime-js'
 import { SupabaseEventTypes, SupabaseRealtimePayload } from './types'

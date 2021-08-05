@@ -7,7 +7,7 @@ export {
   PostgrestSingleResponse,
   PostgrestMaybeSingleResponse,
   PostgrestError,
-} from '@supabase/postgrest-js'
+} from './postgrest-js'
 export * from '@supabase/realtime-js'
 
 /**
