@@ -1,5 +1,5 @@
 {
-  "name": "@supabase/supabase-js",
+  "name": "supabase-js",
   "version": "1.0.0",
   "description": "Isomorphic Javascript client for Supabase.",
   "keywords": [
